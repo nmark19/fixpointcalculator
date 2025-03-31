@@ -27,5 +27,6 @@ Simple click to **main.py**
 3. Enter 40 in the "Fixed point input number" field and 3 in the "Resolution (bit)" field.
 4. Click "Calculate" to see the natural number representation.
 
-
+## Main picture
+![Main frame](doc/main.JPG)
 
